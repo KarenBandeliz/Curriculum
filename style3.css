@@ -433,3 +433,10 @@ font-family: Arial, Helvetica, sans-serif
   border-radius: 15px;
 }
 
+.jumbotron{
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif
+}
+.col{
+  background-color: #d10c0c6c;
+}
